@@ -1,0 +1,1 @@
+Link Deployment : https://huggingface.co/spaces/zidnyyasrah/brain-tumor-prediction
