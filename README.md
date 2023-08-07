@@ -1,4 +1,4 @@
-Link : https://huggingface.co/spaces/zidnyyasrah/brain-tumor-prediction
+Model Demonstration Link : https://huggingface.co/spaces/zidnyyasrah/brain-tumor-prediction
 
 **Hi**, My name is  Zindy Yasrah Sallum, here I will create a Convolutional Neural Network (CNN) model to make a classification model to predict brain tumors.
 
@@ -15,6 +15,6 @@ Dataset Link : _https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-br
 
 ## **Objective**
 
-We will assist medical personnel by creating a Convolutional Neural Network (CNN) model to classify brain tumors from MRI scan results and predict the difference between tumorous brains and normal brains.
+I will assist medical personnel by creating a Convolutional Neural Network (CNN) model to classify brain tumors from MRI scan results and predict the difference between tumorous brains and normal brains.
 
 ---
